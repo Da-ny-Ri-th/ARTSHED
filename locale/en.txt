@@ -95,7 +95,11 @@ Button_72A343CC_67B7_B056_41BC_F12BE04DA8F8.label = Blind  Roll Down
 Button_742FDA38_67BE_B03E_41D4_94D5958F1223.label = Blind  Roll Up
 
 ### Image
+Image_66C19177_682B_44F8_41B6_BD939A2E945B.url = skin/Image_66C19177_682B_44F8_41B6_BD939A2E945B_en.jpg
 Image_78F597A0_67D6_50CE_41D7_ACC7EAF82F77.url = skin/Image_78F597A0_67D6_50CE_41D7_ACC7EAF82F77_en.png
+
+### Multiline Text
+HTMLText_67AB62B3_6829_447F_41C8_2B5506CE0C1B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#777777;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:14px;font-family:'Poppins Medium';">Tip: Click on any </SPAN><SPAN STYLE="color:#cc6633;font-size:14px;font-family:'Poppins Medium';">object</SPAN><SPAN STYLE="color:#333333;font-size:14px;font-family:'Poppins Medium';"> you find interesting.</SPAN></SPAN></DIV></div>
 
 ## Tour
 
